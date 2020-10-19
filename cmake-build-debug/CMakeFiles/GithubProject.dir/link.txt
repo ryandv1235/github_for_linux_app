@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/GithubProject.dir/main.cpp.o  -o GithubProject 
